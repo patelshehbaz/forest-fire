@@ -2,3 +2,9 @@ Flask
 numpy 
 pandas
 scikit-learn
+<<<<<<< HEAD
+scikit-learn
+=======
+scikit-learn
+
+>>>>>>> origin/main
